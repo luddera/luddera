@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background gradient -->
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#5c2d91;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Background rectangle -->
+    <rect width="1200" height="300" fill="url(#gradient)" />
+    
+    <!-- Wave shape -->
+    <path d="M0 180 C 400 230, 800 160, 1200 200 L 1200 300 L 0 300 Z" fill="white" />
+    
+    <!-- Main text -->
+    <text x="100" y="100" fill="white" font-size="48" font-family="Arial, sans-serif" font-weight="bold">
+        Hey, I'm a Cloud Engineer
+    </text>
+    
+    <!-- Smaller text -->
+    <text x="100" y="150" fill="white" font-size="24" font-family="Arial, sans-serif">
+        Specializing in Azure & DevOps
+    </text>
+</svg>
