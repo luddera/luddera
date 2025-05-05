@@ -4,7 +4,7 @@
 
 🔭 currently working on cloud infrastructure automation and DevOps projects
 📚 studying and implementing modern cloud architectures in Azure
-👨‍💻 working as a cloud engineer since 2022
+👨‍💻 working as a cloud engineer since 2021
 🛠️ specializing in Azure services, IaC, and container orchestration
 
 ## Technical Stack
