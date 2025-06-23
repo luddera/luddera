@@ -5,7 +5,7 @@
 🔭 currently working on cloud infrastructure automation and DevOps projects
 📚 studying and implementing modern cloud architectures in Azure
 👨‍💻 working as a cloud engineer since 2021
-🛠️ specializing in Azure services, IaC, and container orchestration
+🛠️ specializing in Azure services, IaC, and container orchestration. You can see the project (my homelab) that I'm mainly working on https://github.com/luddera/pi-cluster
 
 ## Technical Stack
 - **Cloud:** Azure, Azure Functions
